@@ -1,6 +1,6 @@
 # image_recognizer_sketch1
 
-Image recognizer sketch 1 (still needs refinement to adapt to my scenario).  This idea comes almost exclusively from code from **Adrian Rosebok**-- his code is useful though its intent was to run on small computers and small datasets. His intent was to put the identifier/classifier on an iPhone, whereas I am targeting a research problem best addressed on an HPC (highly parallel job partioning) and training testing set based on millions of images!
+Image recognizer sketch 1 (still needs refinement to adapt to my scenario).  This idea comes almost exclusively from code from **Adrian Rosebok**-- his SmallerVGGNet code is useful though its intent was to run on small computers and small datasets. His intent was to put the identifier/classifier on an iPhone, whereas I am targeting a research problem best addressed on an HPC (highly parallel job partioning) and training testing set based on millions of images!
 
 I borrowed the Google image dowloader code from Hardik Vassas excellent project (https://github.com/hardikvasa/google-images-download).  This downloader allows us to "bootstrap" our dataset for model training and program testing.  This project ultimately will not use this since we have very extensive human-identified dataset to train our model.
 
