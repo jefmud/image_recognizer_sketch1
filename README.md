@@ -2,7 +2,7 @@
 
 Image recognizer sketch 1 (still needs refinement to adapt to my scenario)
 
-major credit to Adrian Rosebok
+major credit to Adrian Rosebok (totally recommend reading his books)
 
 I adapted this idea from:
 
